@@ -1,4 +1,4 @@
-import trollFace from "../assets/troll-face.png";
+
 
 const Main = () => {
   return (
